@@ -1,0 +1,10 @@
+C:\Users\Gamer\source\repos\CheckBoxAplikacija\CheckBoxAplikacija\bin\Debug\CheckBoxAplikacija.exe.config
+C:\Users\Gamer\source\repos\CheckBoxAplikacija\CheckBoxAplikacija\bin\Debug\CheckBoxAplikacija.exe
+C:\Users\Gamer\source\repos\CheckBoxAplikacija\CheckBoxAplikacija\bin\Debug\CheckBoxAplikacija.pdb
+C:\Users\Gamer\source\repos\CheckBoxAplikacija\CheckBoxAplikacija\obj\Debug\CheckBoxAplikacija.csproj.AssemblyReference.cache
+C:\Users\Gamer\source\repos\CheckBoxAplikacija\CheckBoxAplikacija\obj\Debug\CheckBoxAplikacija.Form1.resources
+C:\Users\Gamer\source\repos\CheckBoxAplikacija\CheckBoxAplikacija\obj\Debug\CheckBoxAplikacija.Properties.Resources.resources
+C:\Users\Gamer\source\repos\CheckBoxAplikacija\CheckBoxAplikacija\obj\Debug\CheckBoxAplikacija.csproj.GenerateResource.cache
+C:\Users\Gamer\source\repos\CheckBoxAplikacija\CheckBoxAplikacija\obj\Debug\CheckBoxAplikacija.csproj.CoreCompileInputs.cache
+C:\Users\Gamer\source\repos\CheckBoxAplikacija\CheckBoxAplikacija\obj\Debug\CheckBoxAplikacija.exe
+C:\Users\Gamer\source\repos\CheckBoxAplikacija\CheckBoxAplikacija\obj\Debug\CheckBoxAplikacija.pdb
